@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./ss-destop.png)
+![](./images/ss-destop.png)
 ![](./images/ss2.png)
 ![](./images/ss3.png)
 
