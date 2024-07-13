@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: 
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-interactive-rating-page-xUI6tNRKS6
 - Live Site URL: 
 
 ## My process
